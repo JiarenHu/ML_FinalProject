@@ -23,5 +23,6 @@
 
 ## What You can Find in this Project
 * Predctions by NLP algorthims and Machine Learning algorithms listed above
+* Prediction accuracy analysis
 * Word cloud of headlines
 * Coefficient analysis between words and stock market trend
