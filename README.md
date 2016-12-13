@@ -4,7 +4,7 @@
 * Logistic Regression
 * Bernoulli Naive Bayes 
 * Multinomial Naive Bayes
-## TF-IDF
+## TFIDF
 * Logistic Regression
 * Bernoulli Naive Bayes 
 * Multinomial Naive Bayes
