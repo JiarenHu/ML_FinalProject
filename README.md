@@ -1,9 +1,10 @@
-# ML_FinalProject
+# **ML_FinalProject**
 ---
 ## unigram, ngram and unigram without stop words
 * Logistic Regression
 * Bernoulli Naive Bayes 
 * Multinomial Naive Bayes
+
 ## TF-IDF
 * Logistic Regression
 * Bernoulli Naive Bayes 
